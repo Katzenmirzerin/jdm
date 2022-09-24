@@ -1,5 +1,15 @@
 [
     {
+        "name": "TV-Wunschliste",
+        "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
+        "difficulty": "easy",
+        "notes": "(It's a german site…) Profile > settings > delete account > confirm"
+        "notes_de": "Meine Wunschliste > Einstellungen > Anmeldung löschen(ganz unten) > Profil löschen"
+        "domains": [
+            "https://www.wunschliste.de"
+        ]
+    },
+    {
         "name": "/e/",
         "url": "https://doc.e.foundation/create-an-ecloud-account#how-can-i-delete-my-e-account-eemail",
         "difficulty": "easy",
